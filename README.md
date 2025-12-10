@@ -1,5 +1,5 @@
 
-![Uploading Screenshot 2025-12-11 000224.png…]()
+<img width="1900" height="926" alt="Screenshot 2025-12-11 000224" src="https://github.com/user-attachments/assets/6a090f08-4b32-492a-a4ba-b69356871b04" />
 
 <!--
 **nikitanimore992/nikitanimore992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
