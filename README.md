@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 
-Hi there! I’m an aspiring Java software Developer with a strong foundation in core Java, object-oriented programming, and backend technologies. I’m passionate about writing clean, efficient code and building real-world applications that solve real problems.
+<!-- Hi there! I’m an aspiring Java software Developer with a strong foundation in core Java, object-oriented programming, and backend technologies. I’m passionate about writing clean, efficient code and building real-world applications that solve real problems. -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my skills...
 - 🌱 I’m currently learning ...
 -  📫 How to reach me: ... [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikita-nimore-0a388b2a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitanimore992@gmail.com) 
 
@@ -59,8 +59,8 @@ Hi there! I’m an aspiring Java software Developer with a strong foundation in 
 
 <H3>OTHER</H3>
 
- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
-# 📊 GitHub Stats:
+ ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+# 📊 GitHub Stats: -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitanimore992&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
