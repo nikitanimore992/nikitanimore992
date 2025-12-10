@@ -22,6 +22,7 @@ Hi there! I’m an aspiring Java software Developer with a strong foundation in 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+-  📫 How to reach me: ... [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikita-nimore-0a388b2a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitanimore992@gmail.com) 
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikita-nimore-0a388b2a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikitanimore992@gmail.com) 
