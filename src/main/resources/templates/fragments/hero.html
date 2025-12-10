@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<th:block th:fragment="hero-section">
+    <section class="hero" id="home">
+        <div class="hero-background"></div>
+        <div class="container hero-container">
+            <div class="hero-content">
+                <div class="hero-greeting">Hi there, I'm</div>
+                <h1 class="hero-title">
+                    <span class="gradient-text">Nikita Nimore</span>
+                </h1>
+                <h2 class="hero-subtitle">Software Web Developer</h2>
+                <p class="hero-description">I am a passionate Java Web Developer with strong knowledge of Core Java, JSP, Servlets, JDBC, and Spring Framework. Skilled in building responsive and secure web applications using HTML, CSS, JavaScript, and Bootstrap. Familiar with database design (MySQL, Oracle) and version control tools like Git/GitHub. I am eager to apply my problem-solving abilities and programming skills to real-world projects while continuously learning advanced technologies like Spring Boot, Hibernate, and RESTful APIs.</p>
+                <div class="hero-buttons">
+                    <a href="#projects" class="btn btn-primary">
+                        View My Work
+                        <i class="fa fa-arrow-right"></i>
+                    </a>
+                    <a href="#contact" class="btn btn-outline">
+                        Get In Touch
+                    </a>
+                </div>
+                <div class="social-links">
+                    <a href="tel:+918349110169" class="social-link">
+                        <i class="fas fa-phone-alt"></i>
+                    </a>
+                    <a href="mailto:nikitanimore992@gmail.com" class="social-link">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/nikita-nimore-0a388b2a4" target="_blank" class="social-link">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                    <a href="https://github.com/nikitanimore992" target="_blank" class="social-link">
+                        <i class="fab fa-github"></i>
+                    </a>
+                </div>
+            </div>
+
+            <div class="hero-visual">
+                <div class="hero-visual-inner">
+                    <div class="hero-visual-frame">
+                        <img src="/images/profile.jpg" alt="Profile" style="width: 90%; height: 90%; object-fit: cover; border-radius: 15px;">
+                    </div>
+                    <div class="hero-visual-frame"></div>
+                    <div class="hero-visual-frame"></div>
+                </div>
+                <div class="hero-stats stats-1">
+                    <div class="hero-stats-icon">
+                        <i class="fas fa-code"></i>
+                    </div>
+                    <div class="hero-stats-text">
+                        <div class="hero-stats-label">Java Developer</div>
+<!--                        <div class="hero-stats-value">CT</div>-->
+                    </div>
+                </div>
+                <div class="hero-stats stats-3">
+                    <div class="hero-stats-icon">
+                        <i class="fa-solid fa-chalkboard-user"></i>
+                    </div>
+                    <div class="hero-stats-text">
+                        <div class="hero-stats-label">Front-end Developer</div>
+<!--                        <div class="hero-stats-value">CT</div>-->
+                    </div>
+                </div>
+                <div class="hero-stats stats-2">
+                    <div class="hero-stats-icon">
+                        <i class="fa-solid fa-chalkboard-user"></i>
+                    </div>
+                    <div class="hero-stats-text">
+                        <div class="hero-stats-label">PHP Developer</div>
+<!--                        <div class="hero-stats-value">CT</div>-->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="scroll-indicator">
+            <span>Scroll Down</span>
+            <div class="scroll-indicator-line">
+                <div class="scroll-indicator-dot"></div>
+            </div>
+        </div>
+    </section>
+</th:block>
+</html>
