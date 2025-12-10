@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 # 📊 GitHub Stats: -->
+#
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitanimore992&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
